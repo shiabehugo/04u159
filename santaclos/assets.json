@@ -1,1 +1,9 @@
-{}
+{
+    "0": {
+        "name": "potato",
+        "description": "https://raw.githubusercontent.com/shiabehugo/04u159/master/santaclos/0_desc.dat",
+        "image": "https://i.ibb.co/p4LxxgC/a184bc829145.png",
+        "smallImage": "https://i.ibb.co/j3rTTd7/a184bc829145.png",
+        "price": "1.24"
+    }
+}

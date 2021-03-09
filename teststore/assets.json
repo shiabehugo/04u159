@@ -5,5 +5,12 @@
         "image": "https://i.ibb.co/p4LxxgC/a184bc829145.png",
         "smallImage": "https://i.ibb.co/j3rTTd7/a184bc829145.png",
         "price": "0.23"
+    },
+    "3": {
+        "name": "c",
+        "description": "https://raw.githubusercontent.com/shiabehugo/04u159/master/teststore/3_desc.dat",
+        "image": "https://i.ibb.co/6gY1h37/4e48780c6f6d.png",
+        "smallImage": "https://i.ibb.co/nzrn2HN/4e48780c6f6d.png",
+        "price": "0.23"
     }
 }

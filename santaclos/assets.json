@@ -5,5 +5,12 @@
         "image": "https://i.ibb.co/zZyzv3v/d755f946739d.jpg",
         "smallImage": "https://i.ibb.co/fHhsw3w/d755f946739d.jpg",
         "price": "1.25"
+    },
+    "1": {
+        "name": "asdf",
+        "description": "https://raw.githubusercontent.com/shiabehugo/04u159/master/santaclos/1_desc.dat",
+        "image": "https://i.ibb.co/SmZPX8f/8e5bfbf446a6.png",
+        "smallImage": "https://i.ibb.co/t214MtL/8e5bfbf446a6.png",
+        "price": "2"
     }
 }

@@ -12,5 +12,12 @@
         "image": "https://i.ibb.co/SmZPX8f/8e5bfbf446a6.png",
         "smallImage": "https://i.ibb.co/t214MtL/8e5bfbf446a6.png",
         "price": "2"
+    },
+    "13": {
+        "name": "Black baby 2 demo 1",
+        "description": "https://raw.githubusercontent.com/shiabehugo/04u159/master/santaclos/13_desc.dat",
+        "image": "https://i.ibb.co/5vBMjvn/0bbbf1b64b4f.png",
+        "smallImage": "https://i.ibb.co/ft41Ntn/0bbbf1b64b4f.png",
+        "price": "1.5"
     }
 }

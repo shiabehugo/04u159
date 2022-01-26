@@ -40,5 +40,13 @@
         "image": "https://i.ibb.co/6HRtSzh/c7de34c01416.png",
         "smallImage": "https://i.ibb.co/Yc7dSm9/c7de34c01416.png",
         "price": "1"
+    },
+    "18": {
+        "name": "60542",
+        "description": "https://raw.githubusercontent.com/shiabehugo/04u159/master/santaclos/18_desc.dat",
+        "image": "https://i.ibb.co/bmRctPX/216f8c0b1baa.png",
+        "smallImage": "https://i.ibb.co/6wJjQmF/216f8c0b1baa.png",
+        "price": "1",
+        "priceDOGE": "25"
     }
 }

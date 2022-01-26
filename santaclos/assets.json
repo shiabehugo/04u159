@@ -33,5 +33,12 @@
         "image": "https://i.ibb.co/xD4pH9q/386676fa0cf8.png",
         "smallImage": "https://i.ibb.co/wRv9sGh/386676fa0cf8.png",
         "price": "0.005"
+    },
+    "17": {
+        "name": "asdf",
+        "description": "https://raw.githubusercontent.com/shiabehugo/04u159/master/santaclos/17_desc.dat",
+        "image": "https://i.ibb.co/6HRtSzh/c7de34c01416.png",
+        "smallImage": "https://i.ibb.co/Yc7dSm9/c7de34c01416.png",
+        "price": "1"
     }
 }

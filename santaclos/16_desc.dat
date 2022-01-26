@@ -1,0 +1,11 @@
+
+<h1 id="my-asset">My asset</h1>
+<ul>
+<li>asdf</li>
+<li>zxcv</li>
+</ul>
+<ol style="list-style-type: decimal">
+<li>asdf</li>
+<li>zcxv</li>
+<li>351</li>
+</ol>

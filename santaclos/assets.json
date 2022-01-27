@@ -48,5 +48,13 @@
         "smallImage": "https://i.ibb.co/6wJjQmF/216f8c0b1baa.png",
         "price": "1",
         "priceDOGE": "25"
+    },
+    "20": {
+        "name": "Video of thing i made",
+        "description": "https://raw.githubusercontent.com/shiabehugo/04u159/master/santaclos/20_desc.dat",
+        "image": "https://i.ibb.co/HXRDTXn/0b7dc41e50d2.png",
+        "smallImage": "https://i.ibb.co/GFGvQFc/0b7dc41e50d2.png",
+        "price": "1",
+        "priceCurrency": "DOGE"
     }
 }

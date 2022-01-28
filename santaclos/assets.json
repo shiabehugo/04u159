@@ -55,7 +55,8 @@
         "image": "https://i.ibb.co/HXRDTXn/0b7dc41e50d2.png",
         "smallImage": "https://i.ibb.co/GFGvQFc/0b7dc41e50d2.png",
         "price": "1",
-        "priceCurrency": "DOGE"
+        "priceCurrency": "DOGE",
+        "dataIsLinkToFile": true
     },
     "21": {
         "name": "NO",

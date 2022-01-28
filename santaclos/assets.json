@@ -56,5 +56,14 @@
         "smallImage": "https://i.ibb.co/GFGvQFc/0b7dc41e50d2.png",
         "price": "1",
         "priceCurrency": "DOGE"
+    },
+    "21": {
+        "name": "NO",
+        "description": "https://raw.githubusercontent.com/shiabehugo/04u159/master/santaclos/21_desc.dat",
+        "image": "https://i.ibb.co/3TZsdDz/8d9408b063cc.png",
+        "smallImage": "https://i.ibb.co/L07PRL5/8d9408b063cc.png",
+        "price": "1",
+        "priceCurrency": "DOGE",
+        "dataIsLinkToFile": true
     }
 }

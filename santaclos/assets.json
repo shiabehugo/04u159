@@ -7,5 +7,14 @@
         "price": "0.00000001",
         "priceCurrency": "BTC",
         "dataIsLinkToFile": true
+    },
+    "1": {
+        "name": "Black Baby Classic",
+        "description": "https://raw.githubusercontent.com/shiabehugo/04u159/master/santaclos/1_desc.dat",
+        "image": "https://i.ibb.co/rQP1kF9/c4264e0db53b.png",
+        "smallImage": "https://i.ibb.co/cy57Jkq/c4264e0db53b.png",
+        "price": "0.000001",
+        "priceCurrency": "DOGE",
+        "dataIsLinkToFile": true
     }
 }

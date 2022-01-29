@@ -16,5 +16,13 @@
         "price": "0.00000001",
         "priceCurrency": "BTC",
         "dataIsLinkToFile": true
+    },
+    "2": {
+        "name": "noose change brick color",
+        "description": "https://raw.githubusercontent.com/shiabehugo/04u159/master/santaclos/2_desc.dat",
+        "image": "https://i.ibb.co/tMj2fMP/a7ae66ce6273.png",
+        "smallImage": "https://i.ibb.co/WW8z9Wp/a7ae66ce6273.png",
+        "price": "0",
+        "priceCurrency": "DOGE"
     }
 }

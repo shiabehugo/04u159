@@ -1,1 +1,11 @@
-{}
+{
+    "0": {
+        "name": "Black Baby",
+        "description": "https://raw.githubusercontent.com/shiabehugo/04u159/master/santaclos/0_desc.dat",
+        "image": "https://i.ibb.co/q11g9wj/a2bcd15f7701.png",
+        "smallImage": "https://i.ibb.co/9YY42jg/a2bcd15f7701.png",
+        "price": "35",
+        "priceCurrency": "DOGE",
+        "dataIsLinkToFile": true
+    }
+}

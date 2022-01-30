@@ -24,5 +24,13 @@
         "smallImage": "https://i.ibb.co/WW8z9Wp/a7ae66ce6273.png",
         "price": "0",
         "priceCurrency": "DOGE"
+    },
+    "3": {
+        "name": "test",
+        "description": "https://raw.githubusercontent.com/shiabehugo/04u159/master/santaclos/3_desc.dat",
+        "image": "https://i.ibb.co/f1yXGhw/0239b0caf2e8.png",
+        "smallImage": "https://i.ibb.co/SsM67hC/0239b0caf2e8.png",
+        "price": "0",
+        "priceCurrency": "USD"
     }
 }

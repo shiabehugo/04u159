@@ -1,1 +1,10 @@
-{}
+{
+    "0": {
+        "name": "black baby 2 demo 1",
+        "description": "https://raw.githubusercontent.com/shiabehugo/04u159/master/santaclos/0_desc.dat",
+        "image": "https://i.ibb.co/5YYs6Tg/a1fe618e3b78.png",
+        "smallImage": "https://i.ibb.co/HNNGV7f/a1fe618e3b78.png",
+        "price": "8",
+        "priceCurrency": "DOGE"
+    }
+}
